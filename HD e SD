@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>HD / SD 01 - [COLOR green]ON[/COLOR]</name>
+<name>HD / SD 01 - [COLOR red]OFF[/COLOR]</name>
 <thumbnail>https://www.hypeness.com.br/wp-content/uploads/2018/06/VintageFlix2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/eliiptv/tudo/master/Canais%20por%20grupo</externallink>
 <fanart>https://i.imgur.com/pmenxfh.jpg</fanart>
@@ -8,7 +8,7 @@
 
 <channels>
 <channel>
-<name>HD / SD 02 - [COLOR green]ON[/COLOR]</name>
+<name>HD / SD 02 - [COLOR red]OFF[/COLOR]</name>
 <thumbnail>https://www.hypeness.com.br/wp-content/uploads/2018/06/VintageFlix2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/eliiptv/Grupo-2/master/lista</externallink>
 <fanart>https://i.imgur.com/pmenxfh.jpg</fanart>
@@ -27,5 +27,13 @@
 <name>HD / SD 04 - [COLOR red]OFF[/COLOR]</name>
 <thumbnail>https://www.hypeness.com.br/wp-content/uploads/2018/06/VintageFlix2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/eliiptv/grupo-4/master/lista</externallink>
+<fanart>https://i.imgur.com/pmenxfh.jpg</fanart>
+<info>Criado por [COLOR lightseagreen]Elista[/COLOR][COLOR snow]TV, [/COLOR][COLOR snow]MESTRE DAS GAMBIARRAS, KKKKK[/COLOR]</info>
+
+<channels>
+<channel>
+<name>HD / SD 05 - [COLOR green]ON[/COLOR]</name>
+<thumbnail>https://www.hypeness.com.br/wp-content/uploads/2018/06/VintageFlix2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/eliiptv/Temporario/master/lista%20temporaria</externallink>
 <fanart>https://i.imgur.com/pmenxfh.jpg</fanart>
 <info>Criado por [COLOR lightseagreen]Elista[/COLOR][COLOR snow]TV, [/COLOR][COLOR snow]MESTRE DAS GAMBIARRAS, KKKKK[/COLOR]</info>
